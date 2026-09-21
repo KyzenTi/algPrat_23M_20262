@@ -12,26 +12,17 @@ int main(){
     printf("------------------------------------------------- \n");
 
     switch ( num ){
-    case 1 :
-    printf("Sai correndo! Não dá pra enfrentar \n");
-    break;
-    
+    case 1 :    
     case 2 :
     printf("Sai correndo! Não dá pra enfrentar \n");
     break;
     
     case 3 :
-    printf("Se esconda e aguarde reforços! \n");
-    break;
-    
     case 4 :
     printf("Se esconda e aguarde reforços! \n");
     break;
     
     case 5 :
-    printf("Bora enfrentar o BOOOSSS! \n");
-    break;
-    
     case 6 :
     printf("Bora enfrentar o BOOOSSS! \n");
     break;
