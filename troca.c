@@ -5,8 +5,8 @@ int main(){
     int a,b,c,aux;
 
     a = 10;
-    b = 5;
-    c = 1;
+    b = 1;
+    c = 5;
     printf("Sequencia inicial: \na = %i, b= %i, c = %i\n\n", a,b,c);
 
     if (a > b) {  
