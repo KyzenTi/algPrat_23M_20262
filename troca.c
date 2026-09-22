@@ -7,7 +7,7 @@ int main(){
     a = 10;
     b = 5;
     c = 1;
-    printf("Sequencia inicial: a = %i, b= %i, c = %i\n", a,b,c);
+    printf("Sequencia inicial: \na = %i, b= %i, c = %i\n\n", a,b,c);
 
     if (a > b) {  
         aux = a;
