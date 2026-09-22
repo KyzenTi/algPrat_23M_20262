@@ -13,7 +13,7 @@ int main(){
         aux = a;
         a = b;
         b = aux;
-        printf("1° Troca: a = %i, b= %i, c = %i\n", a,b,c);
+        printf("1° troca: a = %i, b= %i, c = %i\n", a,b,c);
     } // a =5, b =10, c=1
     if ( b > c){
         aux = b;
