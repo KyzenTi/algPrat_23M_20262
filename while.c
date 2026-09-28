@@ -2,14 +2,19 @@
 
 int main(){
     
-    int i = 0;
+    int i,soma = 0;
 
-    while ( i <= 10)
+    i = 0;
+
+    while ( i < 5)
     {
-        printf("i = %i\n", i);
-        i += 2;
+        printf("i = %i", i); 
+        soma += i;
+        i ++;
     }
     
+    printf("Soma é: %i \n", soma);
+
     return 0;
 }
 
@@ -20,6 +25,7 @@ int main(){
 4) Quantas vezes o looping foi executado? 4
 5) Qual o valor tornou a condição falsa? 15
 6) Qual é a saida? 11, 12, 13, 14
+7) Qual é a soma dos valores? 
 
 1) 4 
 2) i > -1
